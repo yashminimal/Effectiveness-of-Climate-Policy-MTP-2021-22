@@ -1,0 +1,93 @@
+List of 91 countries for panel data analysis:
+
+Australia
+Austria
+Belgium
+Canada
+Cyprus
+Denmark
+France
+Germany
+Greece
+Hungary
+Iceland
+Italy
+Japan
+Malta
+New Zealand
+Norway
+Portugal
+Sweden
+Switzerland
+USA
+UK
+Spain
+Bangladesh
+Brazil
+Honduras
+Jordan
+Malaysia
+Mexico
+Pakistan
+Paraguay
+Peru
+Philippines
+Senegal
+South Africa
+Sri Lanka
+Sudan
+Tajikistan
+Thailand
+Turkey
+Vietnam
+Argentina
+Azerbaijan
+Belarus
+Botswana
+Bulgaria
+Chad
+Colombia
+Costa Rica
+Cuba
+Egypt
+EL Salvador
+Finland
+Gambia
+Haiti
+Iran
+Ireland
+Kazakhstan
+UAE
+Latvia
+Luxembourg
+Madagascar
+Mali
+Netherland
+Nicaragua
+Oman
+Poland
+Qatar
+Romania
+Russian Federation
+Saudi Arabia
+Brunei Darussalam
+Suriname
+Swaziland
+Turkmenistan
+Kyrgyz Republic
+Uruguay
+Uzbekistan
+Venezuela
+Korea, Rep.
+Hong Kong
+Morocco
+Tanzania
+Algeria
+Belize
+Armenia
+Burkina Faso
+Serbia
+Jamaica
+Maldives
+Nepal
+Panama
